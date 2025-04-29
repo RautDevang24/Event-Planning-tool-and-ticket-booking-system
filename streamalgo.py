@@ -8,7 +8,7 @@ from streamlit_js_eval import streamlit_js_eval
 from visualize import visualize_event_space
 
 # Hardcoded Google API Key
-API_KEY = "AIzaSyDn97PvQF-RPISpc65WBQaBfTmGKcOf4n8"
+API_KEY = "your google api key"
 
 st.set_page_config(page_title="Event Planner", page_icon="🎉", layout="centered")
 
